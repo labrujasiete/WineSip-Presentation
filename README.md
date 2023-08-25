@@ -66,3 +66,14 @@ To expand the app's social reach, we intend to add a feature that allows users t
 &nbsp;
 ## Screenshot
 
+### Lagin and Homepage
+![WineSip_Presentation_01](https://github.com/labrujasiete/wine_tasting_app_presentation/assets/48364518/afac3443-04ce-41d4-8341-67a4f9462d60)
+
+### New Wine - Traits and Aromas Selector
+![WineSip_Presentation_02](https://github.com/labrujasiete/wine_tasting_app_presentation/assets/48364518/a5a86c96-19ab-45c8-847b-b864402c85c3)
+
+### This is our specialized design for the Grape Selector tool
+![WineSip_Presentation_03](https://github.com/labrujasiete/wine_tasting_app_presentation/assets/48364518/db1bb3ca-38e8-4463-81a4-08f7da02d084)
+
+
+
