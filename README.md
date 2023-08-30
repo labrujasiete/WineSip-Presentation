@@ -1,4 +1,4 @@
-# Wine Tasting App (Pending Name)
+# WineSip App
 
 ## Overview
 
