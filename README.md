@@ -1,4 +1,4 @@
-# Wine Tasting App (Pending Name)
+# WineSip
 
 ## Overview
 
@@ -7,6 +7,8 @@ This Flutter project is currently in development and aims to simplify the proces
 - **Authentication:** Google login functionality is already implemented, allowing users to log in using their Google accounts. Support for other common social networks is still pending.
 
 - **State Management:** The app uses the Provider package as a state manager, ensuring efficient and organized state management throughout the application.
+
+- **Backend:** The functionality of the app relies heavily on Firebase, including Firebase Firestore for data storage and Firebase Storage for handling media assets.
 
 - **Backend:** The functionality of the app relies heavily on Firebase, including Firebase Firestore for data storage and Firebase Storage for handling media assets.
 
@@ -39,10 +41,18 @@ The primary focus of this mobile application is to enhance the depth and precisi
 - Firebase Firestore is used for storing and managing wine-related data.
 - Firebase Storage is utilized for handling media assets.
 
+ - HomePage and Profile: The HomePage or Profile page on our app is your gateway to a personalized wine-tasting experience. Here, users can find their profile picture, username, and a quick snapshot of their wine journey, including the number of tasted wines and favorites. The app suggests new wines based on their preferences, making wine discovery a breeze. For those eager to expand their collection, there's a prominent "Taste New Wine" button, ensuring effortless wine cataloging. However, one of the standout features is the list of "Previous Wines Tasted." Each wine in this list is a portal to a treasure trove of tasting information, allowing users to revisit and review their past wine experiences with a simple click. It's a vital tool for refining their palate and making informed wine choices in the future.
+
+  - Taste New Wine Page: Our "Taste New Wine" page is the ultimate hub for wine enthusiasts to document their wine experiences with precision. Users can begin by capturing a picture of their wine bottle, instantly adding a visual touch to their tasting notes, followed by selecting key details such as grape variety, vintage, and region. What sets our app apart is the innovative approach to aroma selection. With over 100 primary and secondary aromas represented by unique icons, users can accurately capture the essence of their wine's bouquet. Additionally, 5 intuitive range sliders allow for effortless categorization of 'body', 'sweetness', 'tannin', 'acidity', and 'alcohol'. To provide a comprehensive tasting profile, we offer three text input boxes for "Visual observation," "Nose," and "Mouth." These text boxes allow users to describe and detail their sensory experiences. As part of our future plans, we are looking to integrate a Speech-to-Text feature for even greater ease and convenience in recording your wine impressions.
+
 
 ## Future Development
 
 In the future, we have ambitious plans to further enhance the Wine Tasting App with advanced features that cater to wine connoisseurs and enthusiasts:
+
+### Virtual Cellar (My Cellar)
+
+Introducing WineSip's premium feature, the Virtual Cellar. Designed for wine aficionados, it simplifies wine collection management. Scan labels or enter wine details effortlessly, customize categories, and benefit from storage guidance. Keep tasting notes and engage with a vibrant wine community. Whether you're a seasoned collector or a casual enthusiast, the Virtual Cellar enhances your wine-tasting journey. Stay tuned for pricing and release updates as we bring this feature to life.
 
 ### Wine Label Recognition
 
