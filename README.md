@@ -1,8 +1,16 @@
-# WineSip
+# WineSip (Wine tasting app)
 
 ## Overview
+The core objective of the "WineSip" application is to enhance the depth and precision of flavor descriptions during wine tasting, concurrently serving as a digital repository, akin to a personal notebook or log. This functionality is presented through a thoughtfully crafted user interface (UI) designed for optimal user experience.
+
+
+## Technical matters
 
 This Flutter project is currently in development and aims to simplify the process of wine tasting and note-taking by providing an elegant and user-friendly experience. The app utilizes several key technologies and features:
+
+- **Flutter:** Open-source UI software development kit (SDK) created by Google for building natively compiled, cross-platform mobile applications with a single codebase.
+
+- **Dart (Primary programming language):** Modern, object-oriented programming language developed by Google, known for its efficiency and suitability for building web and mobile applications.
 
 - **Authentication:** Google login functionality is already implemented, allowing users to log in using their Google accounts. Support for other common social networks is still pending.
 
@@ -10,7 +18,9 @@ This Flutter project is currently in development and aims to simplify the proces
 
 - **Backend:** The functionality of the app relies heavily on Firebase, including Firebase Firestore for data storage and Firebase Storage for handling media assets.
 
-- **Backend:** The functionality of the app relies heavily on Firebase, including Firebase Firestore for data storage and Firebase Storage for handling media assets.
+- **flutter_screenutil:** The Flutter Screen Util package simplifies responsive layout development in Flutter by providing functions to adapt UI elements to different screen sizes, improving user experience.
+
+- **cross-platform:** This app is being developed for both Android and iOS platforms, ensuring a wide reach and accessibility for users on different mobile devices.
 
 ## Features
 
