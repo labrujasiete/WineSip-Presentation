@@ -105,6 +105,8 @@ To expand the app's social reach, we intend to add a feature that allows users t
 
 Cristian Javier Delgadillo Cortés, Fullstack Mobile Developer, Lead Designer & Programmer.
 
+![circled_avatar](https://github.com/labrujasiete/WineSip-Presentation/assets/48364518/d00facb8-c469-4672-934b-bfe2d83b55a4)
+
 Contact Information:
    
    - Whatsapp: +52 664-477-1595
