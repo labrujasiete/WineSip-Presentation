@@ -84,7 +84,7 @@ To expand the app's social reach, we intend to add a feature that allows users t
 
 
 &nbsp;
-## Screenshot
+## Screenshots
 
 ### Login and Homepage
 ![WineSip_Presentation_01](https://github.com/labrujasiete/wine_tasting_app_presentation/assets/48364518/afac3443-04ce-41d4-8341-67a4f9462d60)
@@ -97,6 +97,26 @@ To expand the app's social reach, we intend to add a feature that allows users t
 
 ### Review your already tasted wines
 ![winesip_screenshots](https://github.com/labrujasiete/WineSip-Presentation/assets/48364518/c569a913-c31b-4d01-b970-052e89fbe126)
+
+
+
+&nbsp;
+## Intellectual Property & Ownership
+
+Cristian Javier Delgadillo Cortés, Fullstack Mobile Developer, Lead Designer & Programmer.
+
+Contact Information:
+   
+   - Whatsapp: +52 664-477-1595
+
+### About me:
+
+My name is Cristian Delgadillo, and I am a dedicated and passionate designer and developer. My journey began with a simple everyday problem I encountered in my own life: the absence of a notebook and pen when enjoying wines with friends or acquaintances. Traditional notebooks lack permanence, akin to the ever-evolving nature of a cloud-based solution. Despite extensive research into available apps, none precisely aligned with my vision.
+
+Initially, my ambition was to create a straightforward wine cloud notebook. However, as I delved deeper into this endeavor, I quickly grasped the potential for significant enhancement. Fortuitously, my upbringing immersed me in the world of wine, surrounded by the rich culture, familial influences, and friends in Baja California. Simultaneously, my background as a programmer allowed me to witness the technological boom at its zenith, with experiences ranging from backend projects and website development to digital image processing, photography, and vector graphics creation.
+
+These diverse experiences equipped me with the necessary skills to seamlessly transform my initial idea into a reality.
+
 
 
 
