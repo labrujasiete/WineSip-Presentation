@@ -120,5 +120,11 @@ Initially, my ambition was to create a straightforward wine cloud notebook. Howe
 These diverse experiences equipped me with the necessary skills to seamlessly transform my initial idea into a reality.
 
 
+&nbsp;
+## Sales representative
+Cristian Pascual Serrano, Entrepreneur, Sales-man
 
 
+Hello, I'm Cristian Pascual Serrano, and I serve as a dedicated representative in the fields of entrepreneurship and sales. With a name that carries an air of confidence, I've cultivated a strong presence in the world of business and commerce.
+
+In addition to my thriving professional life, I hold a deep-seated passion for the world of wine. This appreciation for viniculture provides a unique dimension to my life, offering a delightful contrast to the demands of the business world.
