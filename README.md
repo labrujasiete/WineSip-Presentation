@@ -107,7 +107,7 @@ Cristian Javier Delgadillo Cortés, Fullstack Mobile Developer, Lead Designer & 
 
 ![circled_avatar](https://github.com/labrujasiete/WineSip-Presentation/assets/48364518/d00facb8-c469-4672-934b-bfe2d83b55a4)
 
-Contact Information:
+### Contact Information:
    
    - Whatsapp: +52 664-477-1595
 
@@ -124,6 +124,13 @@ These diverse experiences equipped me with the necessary skills to seamlessly tr
 ## Sales representative
 Cristian Pascual Serrano, Entrepreneur, Sales-man
 
+![Cristian](https://github.com/labrujasiete/WineSip-Presentation/assets/48364518/b1dd55a8-e4cf-49a5-96f1-f412be08f5ac)
+
+### Contact Information:
+   
+   - Whatsapp: +52 664-133-4428
+
+### About me:
 
 Hello, I'm Cristian Pascual Serrano, and I serve as a dedicated representative in the fields of entrepreneurship and sales. With a name that carries an air of confidence, I've cultivated a strong presence in the world of business and commerce.
 
