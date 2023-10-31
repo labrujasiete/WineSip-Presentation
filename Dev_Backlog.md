@@ -40,6 +40,13 @@
 | 1. Launcher Icons     | Launcher icons and name have not being set up correctly                 | Medium     | Not Started    | --        | --        | Cristian D.        |
 | 2. Terms & Conditions     | Lack of "Terms & Conditions" agreement                 | Medium     | Not Started    | --        | --        | Cristian D.        |
 | 3. Graphics Copyright     | Recreate/Replace every icon and Vector graphics from the app (most are copyrighted)                 | Medium     | Not Started    | --        | --        | Cristian D.        |
+| 4. LOAD ON SCROLL (PAGINATION)     | Load more item when scroll down (so far called pagination) on every list on the app, mainly on the "people tab screen"                | HIGH     | Not Started    | --        | --        | Cristian D.        |
+
+
+## Known issues
+
+**Unresponsive SalomonBottomBar**
+- SalomonBottomBar currently not working together with Flutter's Screen_util package.
 
 
 
