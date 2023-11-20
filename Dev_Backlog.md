@@ -12,7 +12,7 @@
 |--------------|---------------------------------------------|----------|----------------|-----------------------|------------------------|-------------|
 | 1. Widget vintage     | Slow Widget, too many elements, implement load on drag/scroll                 | --     | Finished    | --        | --        | Cristian D.        |
 | 2. Register wine  | Alert user if any field is empty before submitting a wine to db | --     | Finished    | August 30, 2023       | Septempber 1, 2023        | Cristian D.       |
-| 3. Launcher Icons   | Set launcher icons              | Medium   | Not Started    | --       | --        | Cristian D.      |
+| 3. Launcher Icons   | Set launcher icons              | --   | Finished    | --       | --        | Cristian D.      |
 | 4. Spash Screen      | Implement Splashscreen for app         | Medium   | Not Started    | --       | --      | Cristian D.         |
 | 5. Animated Switcher      | fix the AnimatedSwitcher to have an animation (scale* or fade) after taking a picture to a wine         | Medium   | Not Started    | --       | --      | Cristian D.         |
 | 6. Aft. Effct. Anim.      | Create After Effects Animation for the wine photo placeholder.         | Medium   | Not Started    | --       | --      | Cristian D.         |
@@ -37,7 +37,7 @@
 
 | Task         | Description                                 | Priority | Current Status | Estimated Start Date | Estimated Finish Date | Responsible |
 |--------------|---------------------------------------------|----------|----------------|-----------------------|------------------------|-------------|
-| 1. Launcher Icons     | Launcher icons and name have not being set up correctly                 | Medium     | Not Started    | --        | --        | Cristian D.        |
+| 1. Launcher Icons     | Launcher icons and name have not being set up correctly                 | --     | Finished    | --        | --        | Cristian D.        |
 | 2. Terms & Conditions     | Lack of "Terms & Conditions" agreement                 | Medium     | Not Started    | --        | --        | Cristian D.        |
 | 3. Graphics Copyright     | Recreate/Replace every icon and Vector graphics from the app (most are copyrighted)                 | Medium     | Not Started    | --        | --        | Cristian D.        |
 | 4. LOAD ON SCROLL (PAGINATION)     | Load more item when scroll down (so far called pagination) on every list on the app, mainly on the "people tab screen"                | HIGH     | Not Started    | --        | --        | Cristian D.        |
