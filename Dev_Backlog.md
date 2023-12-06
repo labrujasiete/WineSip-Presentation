@@ -6,7 +6,22 @@
 - **Start Date:** August 24, 2023
 - **Estimated Completion Date:** -- -- --
 
-🛠️🍷🚧❄️🟢🔴🟠⚪🚫⛔
+## DEVLOG
+
+### Development
+| Subject | Description | Current Status | Platform | Completion Date |
+|----------|----------|----------|----------|----------|
+| Image Cropper  | Implemented "Image Cropper" in 'Edit Profile' to updaload a new profile picture (Photo frame clipped as a circle) and 'Taste new wine' to upload a new wine bottle picture (Photo frame clipped as a vertical 9:16 aspec ratio rectangle).  | 🟢Done   | 🍎🤖   | December 3, 2023   |
+| Stripe Implementation  | In this release, we implemented Stripe payments seamlessly using the 'flutter_stripe' package in Flutter  with enhanced security features.  | 🟢Done   | 🍎🤖   | November 21, 2023   |
+<!-- ### Performance -->
+<!-- ### Design UI Updates -->
+### Bug Fix
+| Subject | Description | Current Status | Platform | Completion Date |
+|----------|----------|----------|----------|----------|
+| WillPopScope Class Deprecation  | Flutter version 3.12.0-1.0.pre deprecated the 'WillPopScope' class, traditionally used for handling back button presses. The new 'PopScope' class has been introduced to replace it, offering improved functionality and addressing limitations. We updated our code to utilize 'PopScope' for more effective management of back button behavior in the WineSip application.  | 🟢Done   | 🍎🤖   | December 5, 2023   |
+| Fixed build phase apk errors  | Addressed errors in the APK build process, optimized APK signing, and streamlined Gradle scripts for a more stable build.  | 🟢Done   | 🍎🤖   | November 26, 2023   |
+
+
 
 ## List of Pending Tasks
 
@@ -50,6 +65,9 @@
 
 **Unresponsive SalomonBottomBar**
 - SalomonBottomBar currently not working together with Flutter's Screen_util package.
+
+**Spash Screen no image on Android 12**
+- It appears that there is currently an [issue](https://github.com/jonbhanson/flutter_native_splash/issues/626#) preventing the image from overlaying in top of the background color as intended when utilizing "flutter_native_splash" on Android 12 API level 31/32, even when implementing their own android_12 configuration suggestion on their [Documentation](https://github.com/jonbhanson/flutter_native_splash).
 
 
 
