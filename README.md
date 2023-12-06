@@ -25,8 +25,19 @@ This Flutter project is currently in development and aims to simplify the proces
 
 - **cross-platform:** This app is being developed for both Android and iOS platforms, ensuring a wide reach and accessibility for users on different mobile devices.
 
-## Features
-- **User Profile**
+## Current Features
+
+- **Bottom Bar** Navigate effortlessly with our Bottom Bar: 'My Wines' as your full catalog, 'Find People' to connect, 'My Profile' for personal settings, and the heart of it all—'Feed' to discover the latest sips from people you follow.
+
+- **User Profile** Now showcasing your recent drinks, followers, and favorite wines. Customize your profile with a photo, username, and title. It's a straightforward hub for your wine journey.
+
+- **Taste new wine page** Designed to enhance your tasting experience on our app. Capture the essence with our "Wine Bottle Picture Taking" feature, visually documenting your selection. Fine-tune your preferences with the "Grapes Selector" and "Country of Origin" options. Delve into detail with over 120 primary and secondary aromas, allowing you to precisely define the aromatic profile. Assess key characteristics such as body, sweetness, tannin, acidity, and alcohol through our comprehensive wine traits section. Express your tasting journey vividly using description text boxes for visuals, mouthfeel, and aroma. Finally, rate your overall experience with our user-friendly 5-star rating bar.
+
+- **People page** Presenting our 'Top Tap Bar' for intuitive navigation, coupled with a streamlined 'People' page facilitating easy discovery of fellow WineSippers. Effortlessly search for friends using their usernames, enhancing your social wine journey. 
+
+- **Feed page** Displaying the latest wines tasted by individuals you follow. This feature allows you to seamlessly access and explore reviews, descriptions, and experiences shared by your connections, offering a real-time insight into their recent wine encounters.
+
+- **My Wines Page** A personal log or digital repository to every wine you've tasted offering a straightforward and efficient way to track and recall your entire tasting history.
 
 ## Future Development - We are actively working on further enhancing WineSip with advanced features.
 
