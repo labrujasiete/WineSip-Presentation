@@ -41,7 +41,8 @@
 | 12. TextFields verifications      | Change all for "CupertinoTextField"'s and set maxCharacter Length and disable special characters for each one.        | Medium   | ❄️Not Started    | --       | --      | Cristian D.         |
 | 13. Social Links      | Links to their social networks so communication is unrequired.        | Medium   | ❄️Not Started    | --       | --      | Cristian D.         |
 | 14. Guided wine taste NEW       | New Step-by-step (widget by widget) guided wine taste in the format of Illustration - Description or instruction - Widget on a "Column" manner.        | High   | ❄️Not Started    | --       | --      | Cristian D.         |
-| 15. Taste a Wine 2.0       | Recreate the "Taste new wine" page, Dispensing with 'Provider' and making use of 'Callback Functions'        | High   | 🚧Working...    | --       | --      | Cristian D.         |
+| 15. Taste a Wine 2.0       | Recreate the "Taste new wine" page, Dispensing with 'Provider' and making use of 'Callback Functions'        | --   | 🟢Finished    | --       | --      | Cristian D.         |
+| 15. Extra elements for Tasting wine       | -Wine type selection(Red, white, etc), Switches for widgets        | --   | 🚧Working    | --       | --      | Cristian D.         |
 
 
 
