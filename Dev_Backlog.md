@@ -34,7 +34,7 @@
 | 5. Animated Switcher      | fix the AnimatedSwitcher to have an animation (scale* or fade) after taking a picture to a wine         | --   | ⚪Dispose    | --       | --      | Cristian D.         |
 | 6. Aft. Effct. Anim.      | Create After Effects Animation for the wine photo placeholder.         | --   | ⚪Dispose    | --       | --      | Cristian D.         |
 | 7. Image File Size reduction      | Use this library to reduce Image file size without loosing noticeable image quality, Package 99% Flutter popularity:  https://pub.dev/packages/flutter_image_compress       | --   | 🟢Finished    | --       | --      | Cristian D.         |
-| 8. Secondary aromas      | Create all Secondary aromas icons and widgets         | Medium   | ❄️Not Started    | --       | --      | Cristian D.         |
+| 8. Secondary aromas      | Create all Secondary aromas icons and widgets         | Medium   | 🚧Working    | --       | --      | Cristian D.         |
 | 9. Implement GUIDE      | Implement user guidance for tasting wine and using the "Taste new wine" page, using Flutter's ShowCaseView Library from PubDev https://pub.dev/packages/showcaseview !!! new idea - task #14 !!!      | --   | ⛔Delegate task #14    | --       | --      | Cristian D.         |
 | 10. Social Sharing wine card      | Implement social sharing on the Wnie Card by using the following package https://pub.dev/packages/share_plus        | --   | 🟢Finished / not Facebook    | --       | --      | Cristian D.         |
 | 11. Click Suggestions      | Click on Wines - Suggs - Favs from the user card on homepage to open dialog listing each one        | --   | 🟢Finished    | --       | --      | Cristian D.         |
@@ -42,7 +42,7 @@
 | 13. Social Links      | Links to their social networks so communication is unrequired.        | Medium   | ❄️Not Started    | --       | --      | Cristian D.         |
 | 14. Guided wine taste NEW       | New Step-by-step (widget by widget) guided wine taste in the format of Illustration - Description or instruction - Widget on a "Column" manner.        | High   | ❄️Not Started    | --       | --      | Cristian D.         |
 | 15. Taste a Wine 2.0       | Recreate the "Taste new wine" page, Dispensing with 'Provider' and making use of 'Callback Functions'        | --   | 🟢Finished    | --       | --      | Cristian D.         |
-| 15. Extra elements for Tasting wine       | -Wine type selection(Red, white, etc), Switches for widgets        | --   | 🚧Working    | --       | --      | Cristian D.         |
+| 15. Extra elements for Tasting wine       | -Wine type selection(Red, white, etc), Switches for widgets        | --   | 🟢Finished    | --       | --      | Cristian D.         |
 
 
 
