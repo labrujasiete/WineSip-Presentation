@@ -52,7 +52,7 @@ This Flutter project is currently in development and aims to simplify the proces
 ## Screenshots
 
 ### Login and Homepage
-![WineSip_Presentation_01](https://github.com/labrujasiete/wine_tasting_app_presentation/assets/48364518/afac3443-04ce-41d4-8341-67a4f9462d60)
+![WineSip-closeupShot-HomePage_003](https://github.com/labrujasiete/WineSip-Presentation/assets/48364518/033f6943-9fa3-4fed-a9dc-1cfbf7f8daa4)
 
 ### New Wine - Traits and Aromas Selector
 ![WineSip_Presentation_02](https://github.com/labrujasiete/wine_tasting_app_presentation/assets/48364518/a5a86c96-19ab-45c8-847b-b864402c85c3)
@@ -61,7 +61,7 @@ This Flutter project is currently in development and aims to simplify the proces
 ![WineSip_Presentation_03](https://github.com/labrujasiete/wine_tasting_app_presentation/assets/48364518/bd5afb3b-0c38-4311-9454-16f6084828aa)
 
 ### Review your already tasted wines
-![winesip_screenshots](https://github.com/labrujasiete/WineSip-Presentation/assets/48364518/c569a913-c31b-4d01-b970-052e89fbe126)
+
 
 
 &nbsp;
