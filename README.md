@@ -6,6 +6,17 @@ The core objective(goal) of the "WineSip" application is to enhance the depth an
 
 ![Frame 231](https://github.com/user-attachments/assets/e6642dc3-1fce-473f-8b22-b1ed2a9dbf21)
 
+As part of the "XXIV Festival de las Conchas y el Vino Nuevo", our platform was awarded second place for Best Startup—an acknowledgment that highlights our contribution to the wine world through technological innovation and artisanal design. This event, recognized as one of the most important for the wine industry in Ensenada, B.C., and the "Valle de Guadalupe", brought together key players driving the sector’s development, including the Ministry of Agriculture, SEPESCA, COMEPESCA, the ProVino Committee of Baja California, CETYS University, and the Center for Viticulture Studies (CEVIT).
+
+The festival not only celebrates excellence in wine and gastronomy but also recognizes initiatives that redefine how this culture is experienced and shared. Our platform stood out for its innovative approach, merging technology and user experience to enable wine enthusiasts to record, explore, and share their tastings in an intuitive and personalized way. This recognition underscores the importance of creating digital tools that connect the wine community—from producers to consumers.
+
+The evaluation, conducted by experts and representatives from these institutions, highlights the significance of our platform as a bridge between tradition and modernity, demonstrating how new technologies can enhance an age-old experience like wine appreciation. Being recognized in a space where tradition, education, and wine culture converge strengthens our vision of continuing to innovate and bring value to the wine industry.
+
+This award not only motivates us to keep refining our platform but also solidifies our position as a key player in the digital transformation of wine culture.
+
+![Uploading Screenshot_20240412-202231.png…]()
+
+
 ## Dev Backlog & Development Progress
 [Click here for Devlog & Development Progress <---](Dev_Backlog.md)
 
