@@ -4,7 +4,7 @@
 ## Goal
 The core objective(goal) of the "WineSip" application is to enhance the depth and precision of flavor descriptions during wine tasting. —Concurrently serving as a digital repository, akin to a personal notebook or log. This functionality is presented through a thoughtfully crafted user interface (UI) designed for optimal user experience.
 
-- ![Frame 289](https://github.com/user-attachments/assets/a65060c1-1897-4941-842a-3ef4ca07ab3c)
+![Frame 230](https://github.com/user-attachments/assets/e9ef0651-ffb4-4585-b296-243ebfbeba6e)
 
 ## Dev Backlog & Development Progress
 [Click here for Devlog & Development Progress <---](Dev_Backlog.md)
