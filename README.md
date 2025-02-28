@@ -14,7 +14,7 @@ The evaluation, conducted by experts and representatives from these institutions
 
 This award not only motivates us to keep refining our platform but also solidifies our position as a key player in the digital transformation of wine culture.
 
-![Screenshot_20240412-202231](https://github.com/user-attachments/assets/0ac72f6e-552a-4520-a67a-f4b7dd2c7639)
+![Frame 267](https://github.com/user-attachments/assets/5ec5cb83-4e4b-4570-aed1-20db7694a99a)
 
 ## Dev Backlog & Development Progress
 [Click here for Devlog & Development Progress <---](Dev_Backlog.md)
