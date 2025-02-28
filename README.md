@@ -1,7 +1,10 @@
-# WineSip (Wine tasting app)
+# WineSip
+[Download App at WineSip.com](https://winesipapp.com/)
 
 ## Goal
 The core objective(goal) of the "WineSip" application is to enhance the depth and precision of flavor descriptions during wine tasting. —Concurrently serving as a digital repository, akin to a personal notebook or log. This functionality is presented through a thoughtfully crafted user interface (UI) designed for optimal user experience.
+
+- ![Frame 289](https://github.com/user-attachments/assets/a65060c1-1897-4941-842a-3ef4ca07ab3c)
 
 ## Dev Backlog & Development Progress
 [Click here for Devlog & Development Progress <---](Dev_Backlog.md)
@@ -48,11 +51,12 @@ This Flutter project is currently in development and aims to simplify the proces
 - **Speech to Text Integration**: Users will have the option to verbally describe their wine tasting experiences, and the app will transcribe their spoken words into text. This feature will save time and make it easier for users to record their thoughts and impressions while tasting various wines.
 
 
+
 &nbsp;
 ## Screenshots
 
-### Login and Homepage
-![WineSip-closeupShot-HomePage_003](https://github.com/labrujasiete/WineSip-Presentation/assets/48364518/033f6943-9fa3-4fed-a9dc-1cfbf7f8daa4)
+### Homepage
+![banner-1-1_ad_Apr_24](https://github.com/user-attachments/assets/9d49a738-e8eb-4ba5-87c4-d49b5cc473e6)
 
 ### New Wine - Traits and Aromas Selector
 ![WineSip_Presentation_02](https://github.com/labrujasiete/wine_tasting_app_presentation/assets/48364518/a5a86c96-19ab-45c8-847b-b864402c85c3)
