@@ -22,7 +22,7 @@ This award not only motivates us to keep refining our platform but also solidifi
 
 ## Technical matters
 
-This Flutter project is currently in development and aims to simplify the process of wine tasting and note-taking by providing an elegant and user-friendly experience. The app utilizes several key technologies and features, Here are a few noteworthy:
+This Flutter project has been developed to simplify the process of wine tasting and note-taking by providing an elegant and user-friendly experience. The app utilizes several key technologies and features, Here are a few noteworthy:
 
 - **Flutter:** Open-source UI software development kit (SDK) created by Google for building natively compiled, cross-platform mobile applications with a single codebase.
 
