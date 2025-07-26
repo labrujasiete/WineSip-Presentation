@@ -19,7 +19,6 @@ This award not only motivates us to keep refining our platform but also solidifi
 ## Dev Backlog & Development Progress
 [Click here for Devlog & Development Progress <---](Dev_Backlog.md)
 
-
 ## Technical matters
 
 This Flutter project has been developed to simplify the process of wine tasting and note-taking by providing an elegant and user-friendly experience. The app utilizes several key technologies and features, Here are a few noteworthy:
@@ -36,21 +35,119 @@ This Flutter project has been developed to simplify the process of wine tasting 
 
 - **flutter_screenutil:** The Flutter Screen Util package simplifies responsive layout development in Flutter by providing functions to adapt UI elements to different screen sizes, improving user experience.
 
-- **cross-platform:** This app is being developed for both Android and iOS platforms, ensuring a wide reach and accessibility for users on different mobile devices.
+- **cross-platform:** This app is being developed for both Android and iOS platforms, ensuring a wide reach and accessibility for users on different mobile devices.  
 
-## Current Features
+&nbsp;
 
-- **Bottom Bar** Navigate effortlessly with our Bottom Bar: 'My Wines' as your full catalog, 'Find People' to connect, 'My Profile' for personal settings, and the heart of it all—'Feed' to discover the latest sips from people you follow.
+# Current Features of WineSip
 
-- **User Profile** Now showcasing your recent drinks, followers, and favorite wines. Customize your profile with a photo, username, and title. It's a straightforward hub for your wine journey.
+WineSip was originally designed as a simple way to replace notebooks and pens for wine lovers. It started as a basic app where users could log in and record wine tastings with plain text inputs. Over time, it has evolved into a social, AI-powered, and feature-rich platform to manage, share, and explore wine tasting experiences. Below is a detailed list of its current features:
 
-- **Taste new wine page** Designed to enhance your tasting experience on our app. Capture the essence with our "Wine Bottle Picture Taking" feature, visually documenting your selection. Fine-tune your preferences with the "Grapes Selector" and "Country of Origin" options. Delve into detail with over 120 primary and secondary aromas, allowing you to precisely define the aromatic profile. Assess key characteristics such as body, sweetness, tannin, acidity, and alcohol through our comprehensive wine traits section. Express your tasting journey vividly using description text boxes for visuals, mouthfeel, and aroma. Finally, rate your overall experience with our user-friendly 5-star rating bar.
+## Authentication
+**Google & Apple Sign-In**  
+Users can securely log in using Google or Apple accounts. Authentication is powered by Firebase Authentication.
 
-- **People page** Presenting our 'Top Tap Bar' for intuitive navigation, coupled with a streamlined 'People' page facilitating easy discovery of fellow WineSippers. Effortlessly search for friends using their usernames, enhancing your social wine journey. 
+## Firebase Integration
+**Firebase-Backed Infrastructure**  
+WineSip is built on Firebase, using Firebase Authentication, Firestore for data, Cloud Storage for images, and Cloud Functions to power backend logic.
 
-- **Feed page** Displaying the latest wines tasted by individuals you follow. This feature allows you to seamlessly access and explore reviews, descriptions, and experiences shared by your connections, offering a real-time insight into their recent wine encounters.
+## User Profile
+**Personalized Profile Page**  
+Displays the user's avatar, username, title, level, and XP points. XP increases as users log wine tastings.
 
-- **My Wines Page** A personal log or digital repository to every wine you've tasted offering a straightforward and efficient way to track and recall your entire tasting history.
+**Bio & Stats Overview**  
+Users can write a short bio and view their total number of favorite wines, followers, and following.
+
+**Wine Cards List**  
+A descending chronological list of the wines you’ve logged. Each item displays the tasting date, star rating, wine name, and a flag icon for the wine’s country of origin.
+
+## Notifications
+**Activity Notifications**  
+Users receive real-time updates when someone follows them, comments on their wines, or logs new wines.
+
+## Floating Action Buttons (FABs)
+**Quick Actions**  
+Two FABs are available throughout the app to:
+- Scan a wine label using AI (Gemini)
+- Manually log a wine tasting
+
+## AI Wine Scanner
+**Gemini AI Label Reader**  
+Users can take or upload a photo of a wine label. Gemini extracts structured data such as:
+- Wine name
+- Country & flag
+- Grape variety
+- Alcohol content
+- Wine type (red, white, etc.)
+- Vintage
+- Suggested rating (out of 5 stars)
+
+The AI fills a tasting form automatically, allowing the user to focus on sensory notes.
+
+## Wine Tasting Form
+**Detailed Sensory Logging**  
+Users can log visual, nose, and palate impressions. Specialized widgets are available for:
+- Selecting primary and secondary aromas
+- Rating Body, Sweetness, Tannins, Acidity, Alcohol via sliders
+
+More detailed tasting logs result in more XP points.
+
+## Wine Page
+**Detailed Wine Card View**  
+Displays all the information about a specific wine tasting including:
+- Wine name, user info, wine type, alcohol level, grape variety
+- Tasting notes and sensory observations
+- Floating buttons for: delete (if it’s your wine), like, and comment
+
+**Find Matching Wines**  
+Matches your wine tasting with entries from other users using wine name. Results appear in a bottom sheet.
+
+## Comments & Likes
+**Interaction Tools**  
+Users can comment on wine tastings and like their own or others’ entries. Comments are accessible through a dedicated button.
+
+## Profile Menu
+**Editable User Data**  
+- Edit Profile: Change avatar, username, title, bio, and country
+- About WineSip: General information and IP notice
+- Feature Development: A news page about upcoming features
+- Sharing is Caring: Link to donation page
+
+**Private Settings**  
+- End User License Agreement (EULA) and Privacy Policy
+- Choose visibility (whether you can be followed/found)
+- Manage email verification or update email
+- Blocked users list
+- Delete Account: Initiates a 14-day deletion window with cancel option upon re-login
+
+**Support & Feedback**  
+- Report Bug or Suggest Feature: Take screenshots, annotate, and describe issues
+- Logout option
+
+## Bottom Navigation Bar
+**Persistent UI Navigation**  
+The app contains four main sections accessible at all times:
+
+### Profile
+Your personal tasting log and social hub (described above).
+
+### People
+**User Discovery & Social**  
+- Search and follow other WineSip users
+- View public profiles, wine lists, and tasting entries of others
+
+### Feed
+**Social Wine Timeline**  
+- Instagram-style feed showing wine tastings from people you follow
+- Cards include wine photo, user details, rating, tasting date, and report button
+
+### Wines
+**All Your Tastings in One Place**  
+A full list of your wine tastings with search functionality. Also allows viewing public tastings from other users.
+
+---
+
+WineSip continues to grow, but its core idea remains the same: an easy and elegant way to store your wine tastings in the cloud, and discover what others are enjoying—replacing notebooks with an AI-powered, social wine journal.
 
 ## Future Development - We are actively working on further enhancing WineSip with advanced features.
 
